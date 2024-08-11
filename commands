@@ -1,0 +1,2 @@
+docker ps -a     (list of containers)
+docker ps       (list of running container)
